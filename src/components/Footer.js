@@ -3,9 +3,9 @@ import styles from "./Footer.module.css";
 export const Footer = () => {
   return (
     <footer className={styles.wrapper}>
-      <h1 className={styles.title}>John Doe</h1>
-      <p>123 Street, New York, USA</p>
-      <p>+012 345 67890 | info@domain.com</p>
+      <h1 className={styles.title}>Alain Kuiete</h1>
+      <p>54 Chapin Ave, Waterbury, CT USA</p>
+      <p>+1 856 540 8179 | alainkuiete@gmail.com</p>
       <div className={styles.socials}>
         <img
           src="/assets/socials/twitter.png"

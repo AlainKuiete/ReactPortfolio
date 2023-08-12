@@ -3,8 +3,8 @@ import styles from "./HeroArea.module.css";
 export const HeroArea = () => {
   return (
     <section className={styles.wrapper}>
-      <img className={styles.profile} src="/assets/profile.png" alt="profile" />
-      <h1 className="title">Hi, I'm John!</h1>
+      <img className={styles.profile} src="/assets/Avatar.png" alt="profile" />
+      <h1 className="title">Hello, I'm Alain!</h1>
       <p className="description">
         An aspiring web developer looking for new role in tech
       </p>
